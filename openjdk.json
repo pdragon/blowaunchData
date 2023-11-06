@@ -6,6 +6,12 @@
       "linux": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u372-b07/OpenJDK8U-jre_x64_linux_hotspot_8u372b07.tar.gz",
       "macos": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u372-b07/OpenJDK8U-jre_x64_mac_hotspot_8u372b07.tar.gz"
     },
+     "16": {
+      "directory": "jdk-16.0.1-jre",
+      "windows": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2+7_adopt.zip",
+      "linux": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2+7_adopt.tar.gz",
+      "macos": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2+7_adopt.tar.gz"
+    }
     "17": {
       "directory": "jdk-17.0.1+12-jre",
       "windows": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jre_x64_windows_hotspot_17.0.1_12.zip",

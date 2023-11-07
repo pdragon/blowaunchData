@@ -8,9 +8,9 @@
     },
      "16": {
       "directory": "jdk-16.0.1-jre",
-      "windows": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2+7_adopt.zip",
-      "linux": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2+7_adopt.tar.gz",
-      "macos": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2+7_adopt.tar.gz"
+      "windows": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2%2B7_adopt.zip",
+      "linux": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2%2B7_adopt.tar.gz",
+      "macos": "https://github.com/adoptium/jdk16u/archive/refs/tags/jdk-16.0.2%2B7_adopt.tar.gz"
     },
     "17": {
       "directory": "jdk-17.0.1+12-jre",
